@@ -12,3 +12,21 @@ Now, picture this: Your friend wants to sell his car, but he's not sure how much
 Think of yourself as a detective, but for data. We've got some questions to solve. Do we know how much other cars with different colors or brands cost? Does the car's power (horsepower) affect the price, or maybe something else?
 
 As data experts, these are the questions we're here to answer. But to do that, we need one thing: data! 📊💡
+
+## Steps
+
+- Import required modules
+- Define dataset column headers
+- Check for missing values
+- Checking datatypes for each column of the dataset
+- Normalizing values using feature scaling method and binning-grouping values
+- Performing various data cleaning and data visualization operations on your data
+
+## Modules required
+
+- Pandas
+- Matplotlib
+- NumPy
+- Seaborn
+- Scipy
+
